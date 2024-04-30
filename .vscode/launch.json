@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/choyoonseo/Library/CloudStorage/OneDrive-Personal/모시공/3-1/컴퓨터구조및모바일프로세서/HW2/HW2_32214362_조윤서",
+      "program": "/Users/choyoonseo/Library/CloudStorage/OneDrive-Personal/모시공/3-1/컴퓨터구조및모바일프로세서/HW2/HW2_32214362_조윤서/build/Debug/outDebug"
+    }
+  ]
+}
